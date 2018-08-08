@@ -3,4 +3,4 @@
 This is a python program to print Hello World!
 
 ## To Run
-```python main.py : to run code
+```python.main.py : to run code
